@@ -1,0 +1,35 @@
+{
+  "Company": [
+    {
+      "id": "1",
+      "E_Name": "Jasmeet",
+      "E_Role": "QA Engineer",
+      "E_Salary": "40000"
+    },
+    {
+      "id": "2",
+      "E_Name": "Raj",
+      "E_Role": "Junior Engineer",
+      "E_Salary": "38000"
+    },
+    {
+      "id": "3",
+      "E_Name": "Manish",
+      "E_Role": "Cloud Engineer",
+      "E_Salary": "40000"
+    },
+    {
+      "id": "4",
+      "E_Name": "Jagan",
+      "E_Role": "Database Administrator",
+      "E_Salary": "65000"
+    },
+    {
+      "id": "C2GbVf6aYF8",
+      "E_Name": "Jigar",
+      "E_Role": "QA Automation Engineer",
+      "E_Salary": "50000"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
